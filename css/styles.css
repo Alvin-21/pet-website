@@ -1,3 +1,19 @@
 h1 {
     text-align: center;
 }
+
+figure {
+    text-align: center;
+}
+
+p, li{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+body {
+    background-color: aqua;
+}
